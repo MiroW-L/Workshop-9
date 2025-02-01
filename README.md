@@ -1,5 +1,5 @@
 # Workshop-9
-
+https://mirow-l.github.io/Workshop-9/
 
 ## video killed the radio star (1/2/25)
 - started watching Leo's guide which was fun, I want to add some distortion i think
